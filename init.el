@@ -226,6 +226,8 @@
 
 (global-set-key(kbd "C-x /")'comment-or-uncomment-region)
 
+(global-set-key (kbd "C-z")'er/expand-region)
+
 ;;(global-set-key(kbd "C-x x")'pythonic-activate)
 
 ;;查找多个字符串
